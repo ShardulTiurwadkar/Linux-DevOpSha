@@ -83,14 +83,14 @@
 
 ## ⚖️ Unix vs. Linux Comparison
 
-| Feature        | Unix  | Linux  |
+| Feature        | Unix      | Linux  |
 |---------------|-------|--------|
-| **Cost**      | Proprietary (Paid) | Free & Open Source |
-| **Source Code** | Closed | Open Source |
-| **Users** | Mainly Enterprises | Individuals & Enterprises |
-| **Security** | Secure | Highly Secure |
-| **Customizability** | Limited | Highly Customizable |
-| **Distributions** | Single (varies by vendor) | Multiple Distros (Ubuntu, Fedora, Debian, etc.) |
+| **Cost**      | Proprietary (Paid)     | Free & Open Source |
+| **Source Code** | Closed     | Open Source |
+| **Users** | Mainly Enterprises     | Individuals & Enterprises |
+| **Security** | Secure     | Highly Secure |
+| **Customizability** | Limited     | Highly Customizable |
+| **Distributions** | Single (varies by vendor)     | Ubuntu, Fedora, Debian, etc. |
 
 ---
 
