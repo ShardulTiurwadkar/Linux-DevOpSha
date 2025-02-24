@@ -46,7 +46,6 @@
 - **Android:** Based on the Linux kernel, it became the world’s leading mobile OS.
 - **Git:** Created by Linus Torvalds, revolutionizing version control.
 - **Cloud & IoT:** Powers cloud computing, containerization (Docker, Kubernetes), and embedded systems.
-
 ---
 
 ## 🔥 Basic Features of Linux
