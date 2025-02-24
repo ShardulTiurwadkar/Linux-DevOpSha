@@ -13,7 +13,7 @@
       <td><a href="#-basic-features-of-linux">🔥 Basic Features of Linux</a></td>
     </tr>
     <tr>
-      <td><a href="#-unix-vs-linux-comparison">⚖️ Unix vs. Linux Comparison</a></td>
+      <td><a href="#-unix-vs-linux-comparison">⚖️ Unix vs Linux Comparison</a></td>
     </tr>
     <tr>
       <td><a href="#-popular-linux-distributions">🏆 Popular Linux Distributions</a></td>
