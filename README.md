@@ -5,6 +5,29 @@
 
 ---
 
+<details>
+  <summary><strong>📖 Table of Contents</strong></summary>
+  <br>
+  <table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+      <td><a href="#-basic-features-of-linux">🔥 Basic Features of Linux</a></td>
+    </tr>
+    <tr>
+      <td><a href="#-unix-vs-linux-comparison">⚖️ Unix vs. Linux Comparison</a></td>
+    </tr>
+    <tr>
+      <td><a href="#-popular-linux-distributions">🏆 Popular Linux Distributions</a></td>
+    </tr>
+    <tr>
+      <td><a href="#-layered-architecture-of-linux">🏗️ Layered Architecture of Linux</a></td>
+    </tr>
+    <tr>
+      <td><a href="#-how-to-get-a-linux-system">🔧 How to Get a Linux System</a></td>
+    </tr>
+  </table>
+</details>
+
+
 <table>
   <tr>
     <td width="50%" valign="top">
