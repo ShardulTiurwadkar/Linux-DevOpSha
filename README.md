@@ -127,3 +127,97 @@
 ---
 
 <p align="center">🚀 <strong>Linux is Everywhere! Embrace Open Source!</strong> 🐧</p>
+
+
+
+# 📚 **Linux Commands Cheat Sheet** 🐧
+
+A comprehensive cheat sheet of essential Linux commands to help you navigate, manage files, and perform administrative tasks easily!
+
+---
+
+## 🔑 **Basic Linux Commands**:
+
+### 🧑‍💻 User Information:
+- **`whoami`**: Show the username you're logged in with.
+- **`who` / `w`**: Displays who is currently logged in.
+- **`sudo su -`**: Switch to the root user.
+- **`uptime`**: Show system uptime.
+- **`users`**: Show currently logged-in users.
+
+### 🗓 Date and Time:
+- **`date`**: Show the current date and time.
+- **`cal`**: Display the current month's calendar.
+
+### 📖 Manual Pages:
+- **`man <command>`**: Show the manual of a specific command. (`man cal`)
+
+---
+
+## 💻 **File and Directory Operations**:
+
+### 📂 Directory Navigation:
+- **`pwd`**: Print the current working directory.
+- **`cd <directoryname>`**: Change directory.
+
+### 🧹 Clear Screen:
+- **`clear`**: Clear the terminal screen.
+
+---
+
+## 🗂 **View Files (Open/Read)**:
+
+### 📜 Display File Contents:
+- **`ls`**: List files in the current directory.
+- **`cat <filename>`**: Display file content.
+- **`less <filename>`**: View file content page by page. (Use `space` to scroll, `q` to quit)
+- **`more <filename>`**: Similar to `less` but displays content in percentage. (Use `space` to scroll, `q` to quit)
+
+### 🔝 Top/Last Lines:
+- **`head -<num_of_lines> <filename>`**: Show the first n lines of a file.
+- **`tail -<num_of_lines> <filename>`**: Show the last n lines of a file.
+
+---
+
+## 🛠 **File and Directory Management**:
+
+### 📝 Create/Edit Files:
+- **`touch <filename>`**: Create a new empty file.
+- **`cat > <filename>`**: Create a file and start writing content.
+- **`nano <filename>`**: Create/edit a file with the nano editor.
+- **`vi <filename>`**: Create/edit a file with the vi editor.
+
+### ❌ Remove Files:
+- **`rm <filename>`**: Remove a file.
+- **`rm -rf <directoryname>`**: Remove a directory and its contents.
+
+### 🏗 Create and Remove Directories:
+- **`mkdir <directoryname>`**: Create a new directory.
+- **`rmdir <directoryname>`**: Remove an empty directory.
+
+---
+
+## ⚙️ **Advanced Usage**:
+- **`sudo`**: Execute a command as another user (commonly root).
+- **`chmod`**: Change the permissions of files or directories.
+- **`chown`**: Change file owner and group.
+
+---
+
+## 🎨 **Visuals & Examples**:
+
+> 💡 _Here's an example of using the `ls` command to list files in a directory:_
+
+```bash
+$ ls
+file1.txt  file2.txt  my_directory/
+
+$ cat file1.txt
+This is the content of file1.
+
+
+
+
+
+
+
