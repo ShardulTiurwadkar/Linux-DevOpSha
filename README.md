@@ -151,7 +151,7 @@ A comprehensive cheat sheet of essential Linux commands to help you navigate, ma
 ## 🔑 **Basic Linux Commands**:
 
 <p align="center">
-  <img src="images/UserInformationDateTime.png" width="250" alt="Linux Logo">
+  <img src="images/UserInformationDateTime.png" width="1000" alt="Linux Logo">
 </p>
 
 
