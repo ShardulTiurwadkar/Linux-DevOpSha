@@ -132,6 +132,18 @@
 
 # 📚 **Linux Commands Cheat Sheet** 🐧
 
+## 📑 **Table of Contents**
+
+1. [Basic Linux Commands](#basic-linux-commands)
+2. [File and Directory Operations](#file-and-directory-operations)
+3. [View Files (Open/Read)](#view-files-openread)
+4. [File and Directory Management](#file-and-directory-management)
+5. [Advanced Usage](#advanced-usage)
+6. [Visuals & Examples](#visuals-examples)
+7. [Usage Tips](#usage-tips)
+8. [Resources](#resources)
+9. [Contributing](#contributing)
+
 A comprehensive cheat sheet of essential Linux commands to help you navigate, manage files, and perform administrative tasks easily!
 
 ---
