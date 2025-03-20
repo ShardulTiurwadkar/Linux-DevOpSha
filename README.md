@@ -150,16 +150,10 @@ A comprehensive cheat sheet of essential Linux commands to help you navigate, ma
 
 ## 🔑 **Basic Linux Commands**:
 
-### 🧑‍💻 User Information:
-- **`whoami`**: Show the username you're logged in with.
-- **`who` / `w`**: Displays who is currently logged in.
-- **`sudo su -`**: Switch to the root user.
-- **`uptime`**: Show system uptime.
-- **`users`**: Show currently logged-in users.
+<p align="center">
+  <img src="images/UserInformationDateTime.png" width="250" alt="Linux Logo">
+</p>
 
-### 🗓 Date and Time:
-- **`date`**: Show the current date and time.
-- **`cal`**: Display the current month's calendar.
 
 ### 📖 Manual Pages:
 - **`man <command>`**: Show the manual of a specific command. (`man cal`)
